@@ -93,7 +93,7 @@
         <dependency>
             <groupId>com.dtflys.forest</groupId>
             <artifactId>forest-spring-boot-starter</artifactId>
-            <version>1.5.2-BETA2</version>
+            <version>1.6.0</version>
             <exclusions>
                 <exclusion>
                     <groupId>log4j</groupId>
